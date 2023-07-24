@@ -1,0 +1,434 @@
+input,
+label {
+  margin: 4px 4px;
+}
+
+
+.header1{
+   
+    margin-left: 13%;
+   
+}
+.logo-img{
+    float: left;
+   
+    margin: 10px 15px 15px 10px;
+   
+}
+
+#City{
+    margin-left: 18px;
+width: 15%;
+padding: 8px;
+}
+
+#search{
+ margin-left: 10px;
+ width: 15%;
+ padding: 8px;  
+}
+.header-input button{
+
+    padding: 8px;
+   margin-left: -50px;
+   background-color :#3fa2cf;
+   cursor: pointer;
+  
+}
+.header-input button:hover{ 
+
+background:cadetblue;
+}
+
+
+#languages{
+    margin-left:15px;
+    width: 15%;
+    padding: 8px;
+    
+    }
+
+#regiter1 {
+    
+    margin-left:18px;
+    width: 10%;
+    padding: 8px;  
+    background-color: white;
+      
+}
+#account{
+
+   
+    margin-left: 31px;
+    width: 10%;
+    padding: 8px;  
+    background-color: white;
+   
+   
+}
+
+#account a,#regiter1 a{
+    text-decoration:  none;
+    color: black;
+}
+
+.Form-input{
+    font-style: normal;
+    font-weight: normal;
+   color: grey;
+    font-size: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+ margin-left: 31%;
+ margin-top: -14px;
+
+  
+
+}
+
+    
+
+#inputName, #inputPass,#Phone
+,#inputlast ,#email,#inputZip
+, #inputCity ,#inputStreet{
+  
+    width: 46%;
+    padding: 8px  ;
+  
+   }
+   
+
+
+
+
+#Form-submit{
+background-color: #3fa2cf;
+width: 48%;
+padding: 8px;
+font-size: 15px;
+color:floralwhite;
+border-color:#3fa2cf;
+
+}
+
+
+.Register h3{
+   
+    
+   
+    margin-left: 45%;
+    margin-top: -18px;
+    margin-bottom: -2px;
+   font-size: 30px;
+
+}
+
+.Register img{
+
+    margin-left: 43%;
+    margin-bottom: -15px;
+    
+}
+.button-form{
+
+    background-color: #ff7b02;
+    color:floralwhite ;
+    width: 18%;
+    margin-left: 39%;
+    padding: 10px;
+    border: none;
+    margin-top: 2px;
+  
+   
+}
+.button-form a {
+    text-decoration: none;
+}
+
+
+
+
+.bg-div{
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+   
+}
+
+nav{
+    float: left;
+    margin: 0;
+    overflow:hidden;
+    text-align: center;
+}
+
+nav ul{
+    margin: 0;
+    padding: 5px;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style-type: none;
+}
+
+nav > ul > li > a{
+    color: rgb(255, 255, 255);
+    display: block;
+    line-height: 2em;
+    padding: 0.5em 1em;
+    text-decoration: none;
+}
+
+
+.bg-div{
+   background: #3fa2cf;
+   overflow: hidden;
+  width: 75%;
+  margin-left: 14%;
+ 
+}
+
+.bg-div a:hover{
+
+    background-color: blue;
+}
+
+.bg-div a.list{
+    background-color: cadetblue;
+}
+
+footer{
+
+    background-color:blue;
+   
+ 
+}
+
+
+.offer{
+
+    border: 1px solid rgb(230, 225, 225) ;}
+
+ 
+
+#wrapper{
+
+    text-align: left;
+
+    margin: 16px 0;
+
+}
+
+ .offer{
+
+     display: inline-block;
+
+     width: 32%;
+
+     height: 32%;
+
+     margin-bottom: 14px;
+
+ }
+
+ .offer .offer-image{
+
+     width: 100%;
+
+ }
+
+.offer h2{
+
+    margin-top: 0pt;
+
+}
+
+.discount-value{
+
+    width: 25%;
+
+    float: left;
+
+    background: orange;
+
+    text-align: center;
+
+    color: white;
+
+}
+
+.discount-location{
+
+    width: 25%;
+
+    float: right;
+
+    background:cadetblue ;
+
+    text-align: center;
+
+    color: white
+
+}
+
+ 
+
+.price{
+
+    width: 100%;
+
+    background:#3fa2cf;
+
+    color: white;
+
+    margin-top: 10%;
+
+    font-size: 1.5em;
+
+}
+
+ footer{
+
+     background-color: #3fa2cf;
+
+     color: cornsilk;
+
+     padding: 14px 16px ;
+
+ }
+
+ .button2{
+float: right;
+  
+    padding: 5.8px;
+    background-color:orange ;
+    border: none;
+    cursor: pointer;
+ }
+ .content{
+   
+    display: inline-block;
+}
+
+.right{
+    border: 1px solid gainsboro;
+    width: 30%;
+    float: right;
+    padding: 20px 20px;
+    background-color:white;
+    text-align: center;
+    margin-top: -550px;
+    
+}
+.phrase{
+    color: coral;
+}
+
+
+.price1{
+    color:  rgb(0, 0, 255);
+    margin-top: 10px;
+    text-align: right;
+    
+}
+.discount1{
+    text-align: right;
+  
+}
+
+
+.button3{
+    height: 30px;
+    width: 80%;
+    background-color: rgb(47, 114, 240);
+    border-color: blue;
+    color: white;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    margin-top:2%;
+    margin-bottom: 5px;
+  }
+  .button4{
+    height: 30px;
+    width: 80%;
+    background-color: rgb(245, 181, 62);
+    border-color: orange;
+    color: white;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: 10%;
+    display:block;
+  }
+
+  .input{
+    margin-left: 33%;
+}
+.input h3{
+    margin-left: 20%;
+}
+
+
+#input-text 
+,#input-area,#input-number,#input-discount,
+#input-Quantity
+{
+
+    width: 46%;
+    padding: 8px
+}
+#input-select{
+    width: 48%;
+    padding: 8px
+
+}
+#submit{
+
+    width: 48%;
+    padding: 8px;
+    color: white;
+    background-color: #3fa2cf;
+    border: none;
+}
+#input-file{
+    border: 1px solid black;
+    border-radius: .3em;
+    padding: 8px;
+    width: 46%;
+}
+
+
+
+.error {
+color: red;
+}
+.success{
+    color: greenyellow;
+  
+}
+
+
+
+.alert {
+  padding: 20px;
+  background-color: #f44336;
+  color: white;
+  width: 48%;
+  padding: 8px;
+  font-size: 15px;
+  font-weight:bold;
+  text-align:center;
+  margin :5px;
+}
+
+.succes {
+ 
+  background-color: #3EC575;
+  color: white;
+  margin :5px;
+  width: 48%;
+  padding: 8px;
+  font-size: 15px;
+	font-weight:bold;
+    text-align:center;
+}
